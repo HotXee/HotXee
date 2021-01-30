@@ -1,0 +1,14 @@
+{
+    "name": "HotXee",
+    "description": "Deploy HotXee on Heroku.",
+    "keywords": ["HotXee"],
+    "env": {
+        "UUID": {
+            "description": "V2Ray UUID",
+            "value": "<--Please Enter UUID!-->"
+        }
+    },
+    "website": "HotXee",
+    "repository": "HotXee",
+    "stack": "container"
+}
